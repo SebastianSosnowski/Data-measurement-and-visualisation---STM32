@@ -1,0 +1,6 @@
+../Core/Src/My_library/XPT2046.c:62:6:TP_Task	16	static
+../Core/Src/My_library/XPT2046.c:92:6:TP_IRQ	8	static
+../Core/Src/My_library/XPT2046.c:197:6:TP_ADC_to_Pixels	40	static
+../Core/Src/My_library/XPT2046.c:213:9:TP_Is_Touched	4	static
+../Core/Src/My_library/XPT2046.c:220:6:TP_Get_Point	16	static
+../Core/Src/My_library/XPT2046.c:226:6:XPT2046_Init	24	static

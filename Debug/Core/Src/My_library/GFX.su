@@ -1,0 +1,14 @@
+../Core/Src/My_library/GFX.c:19:6:GFX_SetFont	16	static
+../Core/Src/My_library/GFX.c:24:6:GFX_SetFontSize	16	static
+../Core/Src/My_library/GFX.c:30:9:GFX_GetFontHeight	4	static
+../Core/Src/My_library/GFX.c:35:9:GFX_GetFontWidth	4	static
+../Core/Src/My_library/GFX.c:40:9:GFX_GetFontSize	4	static
+../Core/Src/My_library/GFX.c:45:6:GFX_DrawChar	48	static
+../Core/Src/My_library/GFX.c:68:6:GFX_DrawString	32	static
+../Core/Src/My_library/GFX.c:86:6:GFX_WriteLine	56	static
+../Core/Src/My_library/GFX.c:137:6:GFX_DrawFastVLine	32	static
+../Core/Src/My_library/GFX.c:142:6:GFX_DrawFastHLine	32	static
+../Core/Src/My_library/GFX.c:147:6:GFX_DrawLine	40	static
+../Core/Src/My_library/GFX.c:169:6:GFX_DrawRectangle	24	static
+../Core/Src/My_library/GFX.c:180:6:GFX_DrawFillRectangle	32	static
+../Core/Src/My_library/GFX.c:190:6:GFX_DrawCircle	40	static

@@ -1,0 +1,13 @@
+../Core/Src/main.c:114:5:main	16	static
+../Core/Src/main.c:226:6:SystemClock_Config	88	static
+../Core/Src/main.c:272:13:MX_NVIC_Init	8	static
+../Core/Src/main.c:281:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:291:13:Move_to_Left_RAW	24	static
+../Core/Src/main.c:299:13:Move_to_Left	48	static
+../Core/Src/main.c:317:12:Measurement_to_Pixel	24	static
+../Core/Src/main.c:341:13:Draw_Chart	48	static
+../Core/Src/main.c:360:6:Save_to_SD	40	static
+../Core/Src/main.c:439:6:Draw_Buttons	16	static
+../Core/Src/main.c:460:6:Draw_Axes	40	static
+../Core/Src/main.c:501:6:Measurements	16	static
+../Core/Src/main.c:544:6:Error_Handler	4	static,ignoring_inline_asm

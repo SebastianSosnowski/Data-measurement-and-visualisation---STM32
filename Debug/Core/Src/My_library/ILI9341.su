@@ -1,0 +1,8 @@
+../Core/Src/My_library/ILI9341.c:44:13:Transmit_To_TFT	16	static
+../Core/Src/My_library/ILI9341.c:49:13:TFT_Send_Command	16	static
+../Core/Src/My_library/ILI9341.c:55:13:Send_Command_Data	16	static
+../Core/Src/My_library/ILI9341.c:64:13:TFT_ILI9341_Set_Addr_Window	32	static
+../Core/Src/My_library/ILI9341.c:84:6:TFT_Clear_Screen	24	static
+../Core/Src/My_library/ILI9341.c:108:6:TFT_Draw_Pixel	24	static
+../Core/Src/My_library/ILI9341.c:120:6:TFT_Set_Rotation	16	static
+../Core/Src/My_library/ILI9341.c:144:6:TFT_ILI9341_Init	24	static
